@@ -13,7 +13,9 @@ If you would like to contribute and don't know where to start, or you have any q
 
 ## Preview
 
-<img src=screenshots/app/login.gif height=500> <img src=screenshots/app/home_and_classes.gif height=500>
+<img src=screenshots/app/login.gif height=500> <img src=screenshots/app/home.gif height=500>
+
+<img src=screenshots/app/classes.gif height=500>
 
 <img src=screenshots/app/portal.gif height=500> <img src=screenshots/app/people.gif height=500>
 
